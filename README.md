@@ -1,7 +1,9 @@
 # surface_profile_analysis
 
 ## Overview
-Uses computer vision python code to analyze curvature of images.
+Uses computer vision python code to analyze curvature of experimental and simulation images.
+- Use surface_prfile_experimental.py for images of physical experiments.
+- Use surface_profile_simulation.py for images of simulation results.
 
 ## Features
 - Extracts curvature of samples in the form of .jpg files.
