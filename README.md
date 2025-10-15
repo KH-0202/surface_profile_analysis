@@ -4,4 +4,7 @@ Uses computer vision python code to analyze curvature of images.
 # User defined inputs
 
 
-# Requirements
+# Requirements and commands
+OpenCV:
+pip install opencv-python
+
