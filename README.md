@@ -20,7 +20,7 @@ lower_bgr = np.array([0, 100, 150])
 upper_bgr = np.array([120, 255, 255])
 ```
 
-# Insallation
+# Installation
 Install the following dependencies:
 (note: this step is not required if dependencies are already installed)
 ```bash
