@@ -68,9 +68,13 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
   year      = 2007
 }
 
-@misc{itseez2015opencv,
-  title={Open Source Computer Vision Library},
-  author={Itseez},
-  year={2015},
-  howpublished = {\url{https://github.com/itseez/opencv}}
+@article{opencv_library,
+    author = {Bradski, G.},
+    citeulike-article-id = {2236121},
+    journal = {Dr. Dobb's Journal of Software Tools},
+    keywords = {bibtex-import},
+    posted-at = {2008-01-15 19:21:54},
+    priority = {4},
+    title = {{The OpenCV Library}},
+    year = {2000}
 }
