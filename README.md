@@ -9,7 +9,7 @@ Uses computer vision python code to analyze curvature of images.
 ## Requirements
 - Update folder path
 ```bash
-folder_path = "C:/PATH/TO/IMAGES"  # << change for your folder with images
+folder_path = r"C:\PATH\TO\IMAGES"  # << change for your folder with images
 ```
 - Manually adjust color threshold based on your image
 ```bash
