@@ -4,11 +4,16 @@
 Uses computer vision python code to analyze curvature of images.
 
 ## Features
-- extracts curvature of samples in the form of .jpg files.
+- Extracts curvature of samples in the form of .jpg files.
 
 ## Requirements
 - Update folder path
-- manually adjust color threshold
+- Manually adjust color threshold based on your image
+```bash
+# Threshold for yellow-orange region in BGR
+lower_bgr = np.array([0, 100, 150])
+upper_bgr = np.array([120, 255, 255])
+```
 
 # Insallation
 Install the following dependencies:
