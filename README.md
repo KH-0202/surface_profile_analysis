@@ -5,6 +5,8 @@ Uses computer vision python code to analyze curvature of images.
 
 
 # Requirements and commands
+numpy
+matplotlib
 OpenCV:
 pip install opencv-python
 
