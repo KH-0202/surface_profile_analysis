@@ -67,3 +67,9 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
   doi       = {10.1109/MCSE.2007.55},
   year      = 2007
 }
+@misc{itseez2015opencv,
+  title={Open Source Computer Vision Library},
+  author={Itseez},
+  year={2015},
+  howpublished = {\url{https://github.com/itseez/opencv}}
+}
