@@ -7,6 +7,7 @@ Uses computer vision python code to analyze curvature of experimental and simula
 
 ## Features
 - Extracts curvature of samples in the form of .jpg files.
+- Exports results in plot window and saves .CSV file of XZ position information
 
 ## Requirements
 - Update folder path
