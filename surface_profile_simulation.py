@@ -20,9 +20,6 @@ if len(ys) == 0:
 
 # Baseline is the bottom of the image
 flat_baseline_y = image.shape[0] - 1
-print(f"Baseline Y (bottom of image) = {flat_baseline_y}")
-
-# Extract bottom-most edge
 bottom_edge = {}
 for x, y in zip(xs, ys):
     if x not in bottom_edge or y > bottom_edge[x]:
