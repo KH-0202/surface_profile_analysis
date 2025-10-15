@@ -13,7 +13,7 @@ Uses computer vision python code to analyze curvature of experimental and simula
 ```bash
 folder_path = r"C:\PATH\TO\IMAGES"  # << change for your folder with images
 ```
-- Manually adjust color threshold based on your image
+- Manually adjust color threshold based on your image in surface_profile_experimetal.py
 ```bash
 # Threshold for yellow-orange region in BGR
 lower_bgr = np.array([0, 100, 150])
