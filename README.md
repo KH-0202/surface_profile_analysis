@@ -27,6 +27,7 @@ pip install matplotlib
 pip install opencv-python
 ```
 ## Lisense
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
 
 ## Citations
 @Article{         harris2020array,
