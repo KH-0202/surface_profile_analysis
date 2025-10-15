@@ -70,14 +70,14 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 }
 
 @article{opencv_library,
-    author = {Bradski, G.},
-    citeulike-article-id = {2236121},
-    journal = {Dr. Dobb's Journal of Software Tools},
-    keywords = {bibtex-import},
-    posted-at = {2008-01-15 19:21:54},
-    priority = {4},
-    title = {{The OpenCV Library}},
-    year = {2000}
+  author = {Bradski, G.},
+  citeulike-article-id = {2236121},
+  journal = {Dr. Dobb's Journal of Software Tools},
+  keywords = {bibtex-import},
+  posted-at = {2008-01-15 19:21:54},
+  priority = {4},
+  title = {{The OpenCV Library}},
+  year = {2000}
 }
 
 @ARTICLE{2020SciPy-NMeth,
